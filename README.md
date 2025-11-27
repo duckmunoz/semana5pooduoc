@@ -45,8 +45,9 @@ git clone https://github.com/duckmunoz/semana5pooduoc.git
 
 ---
 
-**Repositorio GitHub:** \[[(https://github.com/duckmunoz/semana5pooduoc/edit/main/README.mdio])]
+**Repositorio GitHub:** \[[([https://github.com/duckmunoz/semana5pooduoc.git])]
 **Nueva Fecha de entrega:** \[27/11M2025]
 
 ---
+
 
